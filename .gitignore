@@ -1,0 +1,9 @@
+# Ignore Ghidra project files
+*.rep
+*.log
+*.lock
+__pycache__/
+
+# Ignore Ghidra's own metadata
+.ghidra/
+ 
