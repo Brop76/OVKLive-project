@@ -1,0 +1,13 @@
+To Decrypt type:
+
+xextool -c u nameof.xex 
+
+xextool -e u nameof.xex 
+
+---------------------------------
+
+To encrypt type.:
+
+xextool -e e nameof.xex 
+
+xextool -c c nameof.xex 

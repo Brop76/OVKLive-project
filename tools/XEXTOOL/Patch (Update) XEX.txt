@@ -1,0 +1,5 @@
+cd D:\JTAG\PC JTAG Tools\XEXTOOL
+
+1. xextool -p default_mp.xexp default_mp.xex
+2. xextool -r a default_mp.xex
+3. xextool -e d default_mp.xex
